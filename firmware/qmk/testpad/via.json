@@ -1,0 +1,17 @@
+{
+    "name": "orpheuspad",
+    "vendorId": "0xFE3D",
+    "productId": "0x0000",
+    "matrix": {
+        "rows": 2,
+        "cols": 3
+    },
+    "keycodes": ["qmk_lighting"],
+    "menus": ["qmk_rgblight"],
+    "layouts": {
+        "keymap": [
+            [{ "x": 1 }, { "y": 0.25 }, "0,0", "0,2\n\n\n\n\n\n\n\n\ne0"],
+            ["1,0", "1,1", "0,1"]
+        ]
+    }
+}
