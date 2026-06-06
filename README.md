@@ -2,7 +2,7 @@
 
 
 
-[![View PCB on KiCanvas](https://user-cdn.hackclub-assets.com/019e9e3b-d4ca-7aca-98cc-340a81b8a567/kicanvas_border_fix.svg)](https://kicanvas.org/?github=https://github.com/qcoral/orpheuspad/tree/main/pcb)
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?github=https://github.com/qcoral/orpheuspad/tree/main/pcb)
 
 ![picture of orpheuspad](https://cdn.hackclub.com/019d0ee4-7ac7-7305-957e-0b8013fc038c/image.png)
 
