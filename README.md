@@ -1,6 +1,8 @@
 # Orpheuspad!
 
-[![View PCB on KiCanvas](https://user-cdn.hackclub-assets.com/019e9e25-eca9-724a-bc57-44b61ddfdb55/kicanvas32px_crisp.svg)](https://kicanvas.org/?github=https://github.com/qcoral/orpheuspad/tree/main/pcb)
+
+
+[![View PCB on KiCanvas](https://user-cdn.hackclub-assets.com/019e9e2a-7f49-786a-bc3c-881d9548716e/kicanvas24px_crisp.svg)](https://kicanvas.org/?github=https://github.com/qcoral/orpheuspad/tree/main/pcb)
 
 ![picture of orpheuspad](https://cdn.hackclub.com/019d0ee4-7ac7-7305-957e-0b8013fc038c/image.png)
 
