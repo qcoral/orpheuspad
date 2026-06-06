@@ -1,5 +1,7 @@
 # Orpheuspad!
 
+[![View PCB on KiCanvas](https://user-cdn.hackclub-assets.com/019e9e15-5bbb-7d83-816a-7b7bb46c1809/kicanvas32px.svg)](https://kicanvas.org/?github=https://github.com/qcoral/orpheuspad/tree/main/pcb)
+
 ![picture of orpheuspad](https://cdn.hackclub.com/019d0ee4-7ac7-7305-957e-0b8013fc038c/image.png)
 
 Orpheuspad is a 4 key macropad with a rotary encoder, an OLED Display. It also has 2 WS2812B Leds, and uses QMK firmware
